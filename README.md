@@ -1,4 +1,10 @@
 # oxstreet
+# For Assignment 1, create test case for sign up, log in, forget password
+Please check the execl file at the location :/oxstreet/OXStreet- Testcases.xlsx.
+
+![can not load pic](/img/img0.png )
+
+# For Assignment 2: Automation task.
 ## Pre-condition to run the test: install python first
 We are using robot framework to write our test case.
 Due to robot framework is built on python then we have to install python before run the test case.
@@ -43,7 +49,7 @@ note: if you use macos: you use "pip3 install -r requirement.txt" , if you use w
 
 ![can not load pic](/img/img5.png )
 
-+ step 4.4: last command you can run is: robot --outputdir Report /Testsuites
++ step 4.4: last command you can run is: robot --outputdir Report Testsuites/
 
 ![can not load pic](/img/img6.png )
 
